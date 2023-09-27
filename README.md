@@ -1,12 +1,17 @@
-# Chương Trình hiển thông tin hỗ trợ lái xe
+# Chương Trình hiển thông tin hỗ trợ lái xe 
+
 Tác giả: Hoàng Văn Hậu
+
 Timeline: 20/9/2022 - 23/9/2022
+
+
 Email: hoanghau@290698@gmail.com
 
 Chương trình được viết trên IDE: Microsoft Visual Studio Community 2022.
 
 
 Kiến Thức sử dụng để hoàn thành dự án:
+
 	-Thao tác cơ bản với hướng đối tượng
 	-Ghi/sửa/xóa tệp nhị phân 
 	-Con trỏ cơ bản và thao tác với con trỏ
