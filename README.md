@@ -1,22 +1,20 @@
 # Chương Trình hiển thông tin hỗ trợ lái xe
 Tác giả: Hoàng Văn Hậu
-
+Timeline: 20/9/2022 - 23/9/2022
 Email: hoanghau@290698@gmail.com
 
 Chương trình được viết trên IDE: Microsoft Visual Studio Community 2022.
 
 
- Các kiến thức sử dụng:
- 
-  - Thao tác cơ bản với hướng đối tượng
-	-Ghi/sửa/xóa tệp nhị phân với một object
+Kiến Thức sử dụng để hoàn thành dự án:
+	-Thao tác cơ bản với hướng đối tượng
+	-Ghi/sửa/xóa tệp nhị phân 
 	-Con trỏ cơ bản và thao tác với con trỏ
 	-Sử dụng  thuật toán để sắp xếp
+ 
 
-Mục đích chương trình: 	
-	Xây dựng chương trình hỗ trợ thông báo cho lái xe, 
-	nhập id để để mở khóa xe và nổ máy, mô tả chức năng 
-	chuyển đổi cần số, điều khiển vận tốc ô tô và cảnh báo tốc độ.
+Tổng quan chương trình: 	
+	Xây dựng chương trình hỗ trợ thông báo cho lái xe , để cho việc lái xe trở nên an toàn hơn.
 
 Các chức năng chính:
 1. Tính năng đăng nhập, Chức năng này tương đương với việc mở khóa xe và nổ máy.
