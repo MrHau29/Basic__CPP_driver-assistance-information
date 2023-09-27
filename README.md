@@ -6,10 +6,10 @@ Email: hoanghau@290698@gmail.com
 Chương trình được viết trên IDE: Microsoft Visual Studio Community 2022.
 
  Các kiến thức sử dụng:
-- Thao tác cơ bản với hướng đối tượng
--Ghi/sửa/xóa tệp nhị phân với một object
--Con trỏ cơ bản và thao tác với con trỏ
--Sử dụng  thuật toán để sắp xếp
+	- Thao tác cơ bản với hướng đối tượng
+	-Ghi/sửa/xóa tệp nhị phân với một object
+	-Con trỏ cơ bản và thao tác với con trỏ
+	-Sử dụng  thuật toán để sắp xếp
 
 Mục đích chương trình: 	
 	Xây dựng chương trình hỗ trợ thông báo cho lái xe, 
