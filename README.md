@@ -1,20 +1,25 @@
-# ASM4
+# Chương Trình hiển thông tin hỗ trợ lái xe
 Tác giả: Hoàng Văn Hậu
 
 Email: hoanghau@290698@gmail.com
 
-Chương trình được viết trên IDE: Microsoft Visual Studio Community 2022
+Chương trình được viết trên IDE: Microsoft Visual Studio Community 2022.
 
+ Các kiến thức sử dụng:
+- Thao tác cơ bản với hướng đối tượng
+-Ghi/sửa/xóa tệp nhị phân với một object
+-Con trỏ cơ bản và thao tác với con trỏ
+-Sử dụng  thuật toán để sắp xếp
 
 Mục đích chương trình: 	
 	Xây dựng chương trình hỗ trợ thông báo cho lái xe, 
 	nhập id để để mở khóa xe và nổ máy, mô tả chức năng 
-	chuyển đổi cần số, điều khiển vận tốc ô tô và cảnh báo tốc độ
+	chuyển đổi cần số, điều khiển vận tốc ô tô và cảnh báo tốc độ.
 
 Các chức năng chính:
 1. Tính năng đăng nhập, Chức năng này tương đương với việc mở khóa xe và nổ máy.
-	Ở phần này cần phải nhập vào một dãy dữ liệu tương ứng với mã số cá nhân để đăng nhập. 
-	Và bạn cần hoàn thành các chức năng sắp xếp, so sánh 2 dãy số mã số cá nhân
+	Ở phần này cần phải nhập vào một mã số cá nhân để đăng nhập. 
+	Sau đó sánh dãy số mã số cá nhân vừa nhập với file có chứa mã số cá nhân để mở khoá xe.
 	Dữ liệu sẽ được đọc từ file và cập nhật vào file sau mỗi lần cài đặt và đăng nhâp
 2. Chức năng cảnh báo:
  	 + Tương tự phần đăng nhập, dữ liệu sẽ được kiểm tra trong file, và sẽ được cập nhật vào file 
